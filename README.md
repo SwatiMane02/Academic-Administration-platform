@@ -11,3 +11,10 @@ Features
 6. Centralized academic records
 7. Custom reporting and analytics generation
 8. Intuitive and responsive user interface
+
+Technologies Used
+1. Java (JSP & Servlets)
+2. HTML5, CSS3, JavaScript
+3. phpMyAdmin
+4. XAMPP
+5. Git & GitHub
